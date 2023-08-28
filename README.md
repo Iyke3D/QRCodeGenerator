@@ -1,7 +1,8 @@
 # QrcodeGenerator
 
-PROJECT TITLE 
-QRCodegenerator
+<b>PROJECT TITLE 
+QRCodegenerator v1
+
 DESCRIPTION
 The QRCode Generator is a GUI program to generate QRCodes based on some user metrics. These metrics are the user's full name, email address, website address and phone number. Furthermore, the program asks the user to input the name of the file with the svg file extension. The current version is version 1.0 but more features will be added soon.
 USAGE
